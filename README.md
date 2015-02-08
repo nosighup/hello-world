@@ -1,3 +1,3 @@
 # hello-world
-Hello-word is full-fledged application to display "Hello World"
-Usage: type hello-word or hello-word --help
+Hello-word is a C++ to display "Hello World"
+Compilation: clang-3.4 with libc++1.0 required
